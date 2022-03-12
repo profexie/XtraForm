@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ver1", "ver1\ver1.vbproj", "{6C68D92C-18B3-4DEF-86E4-E34F3B64AB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbriTOR", "..\ArbriTOR\ArbriTOR\ArbriTOR.csproj", "{F0E337C7-3663-4E91-9314-31DD804A7AFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspcoreWithAngular", "..\AspcoreWithAngular\AspcoreWithAngular\AspcoreWithAngular.csproj", "{744E31C1-1E12-452B-8539-29C04EE88013}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "XtraForm", "XtraForm\XtraForm.vbproj", "{98D9A9C6-6993-48D0-8CCA-F73524CC04A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C68D92C-18B3-4DEF-86E4-E34F3B64AB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C68D92C-18B3-4DEF-86E4-E34F3B64AB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C68D92C-18B3-4DEF-86E4-E34F3B64AB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C68D92C-18B3-4DEF-86E4-E34F3B64AB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E337C7-3663-4E91-9314-31DD804A7AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E337C7-3663-4E91-9314-31DD804A7AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E337C7-3663-4E91-9314-31DD804A7AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E337C7-3663-4E91-9314-31DD804A7AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744E31C1-1E12-452B-8539-29C04EE88013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744E31C1-1E12-452B-8539-29C04EE88013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744E31C1-1E12-452B-8539-29C04EE88013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744E31C1-1E12-452B-8539-29C04EE88013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D9A9C6-6993-48D0-8CCA-F73524CC04A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D9A9C6-6993-48D0-8CCA-F73524CC04A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D9A9C6-6993-48D0-8CCA-F73524CC04A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D9A9C6-6993-48D0-8CCA-F73524CC04A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA4FA6D-050D-4E05-8ECE-69A6337C0391}
+	EndGlobalSection
+EndGlobal
